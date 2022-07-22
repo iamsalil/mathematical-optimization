@@ -16,16 +16,6 @@ Topics to be discussed in this workshop include:
 
 ## About the Instructor
 
-TODO(instructor): create a profile photo in two steps.
-
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
 ![kevin-carlberg](/assets/img/kevin_carlberg.png){:style="max-width:30%;"}
 
 Kevin Carlberg is an AI Research Science Manager at Facebook Reality Labs and an Affiliate Associate Professor of Applied Mathematics and Mechanical Engineering at the University of Washington. He leads a research team focused on enabling the future of augmented and virtual reality through AI-driven innovations. His individual research combines concepts from machine learning, computational physics, and high-performance computing to drastically reduce the cost of simulating nonlinear dynamical systems at extreme scale. Previously, Kevin was a Distinguished Member of Technical Staff at Sandia National Laboratories in Livermore, California, where he led a research group of PhD students, postdocs, and technical staff in applying these techniques to a range of national-security applications in mechanical and aerospace engineering.
