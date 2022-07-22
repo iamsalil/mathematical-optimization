@@ -3,20 +3,16 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
+Mathematical optimization underpins many applications across science and engineering, as it provides a set of formal tools to compute the ‘best’ action, design, control, or model from a set of possibilities. In data science, machine learning, and artificial intelligence, mathematical optimization is the engine of model training and learning. This workshop will provide an overview of the key elements of this topic (unconstrained, constrained, convex optimization, optimization for model training), and will have a practical focus, with participants formulating and solving optimization problems early and often using standard modeling languages and solvers. By introducing common models from machine learning and other fields, this workshop aims to make participants comfortable with optimization tools so that they may use it for rapid prototyping and experimentation in their own work. Students should be comfortable with linear algebra, differential multivariable calculus, and basic probability and statistics. Experience with Python will be helpful, but not required.
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
+Topics to be discussed in this workshop include:
+- Formulating optimization problems
+- Fundamentals of constrained and unconstrained optimization
+- Convex optimization
+- Optimization methods for model fitting in machine learning
+- Optimization in Python using SciPy and CVXPY
+- In-depth Jupyter Notebook examples from machine learning, statistics, and other fields
 
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
 
 ## About the Instructor
 
@@ -30,9 +26,9 @@ sticky note with "To Do" written on it).
     ```
     /assets/img/profile.jpg
     ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
+![kevin-carlberg](/assets/img/kevin_carlberg.png){:style="max-width:30%;"}
 
-TODO(instructor): insert a description about yourself here!
+Kevin Carlberg is an AI Research Science Manager at Facebook Reality Labs and an Affiliate Associate Professor of Applied Mathematics and Mechanical Engineering at the University of Washington. He leads a research team focused on enabling the future of augmented and virtual reality through AI-driven innovations. His individual research combines concepts from machine learning, computational physics, and high-performance computing to drastically reduce the cost of simulating nonlinear dynamical systems at extreme scale. Previously, Kevin was a Distinguished Member of Technical Staff at Sandia National Laboratories in Livermore, California, where he led a research group of PhD students, postdocs, and technical staff in applying these techniques to a range of national-security applications in mechanical and aerospace engineering.
 
 # Workshop Materials
 
